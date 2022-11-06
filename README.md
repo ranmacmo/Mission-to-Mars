@@ -1,7 +1,7 @@
 # Mission-to-Mars
 
 ## Purpose 
-Together information about Mars news and analyse some Mars Weather Data. 
+Together information about Mars news and analyze some Mars Weather Data. 
 
 ## Files 
 - [Mars challenge notebook Part 1](mars_data_challenge_part_1.ipynb)
@@ -26,10 +26,10 @@ Together information about Mars news and analyse some Mars Weather Data.
 
 ### How many terrestrial days exist in a Martian year?
 
-> The elased earth day for a revolution of Mars around the Suns is 687 days 
+> The elapsed earth day for a revolution of Mars around the Suns is 687 days 
 
 ![Time Delta ](data/Time%20Delta.png)
 
 ### Visual Estimate of Mar Years Based on Temperature 
 
-![Mar Temperture over Earth Days ](data/Min%20Temp%20over%20Terrestrial%20Date%20Chart%20.png)
+![Mar Temperature over Earth Days ](data/Min%20Temp%20over%20Terrestrial%20Date%20Chart%20.png)
